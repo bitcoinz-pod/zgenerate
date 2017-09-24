@@ -1,3 +1,5 @@
+BitcoinZ Cold Wallet - more info in [releases page](https://github.com/bitcoinz-pod/zgenerate/releases)
+
 # zgenerate
 
 Offline BIP32 HD wallet and vanity address generator for ZCash.
