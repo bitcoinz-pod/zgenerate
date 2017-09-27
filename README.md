@@ -59,3 +59,8 @@ To import the private key into ZCash:
 ./zcash-cli importprivkey "private_key_from_zgenerate"
 ~~~~
 Zcashd will automatically rescan the blockchain for transactions
+
+Security Warnings
+-----------------
+
+**BitcoinZ is experimental and a work-in-progress.** Use at your own risk.
